@@ -1,0 +1,14 @@
+{
+  "resourceName": "chatimagestorage",
+  "policyUUID": "7c18886b",
+  "bucketName": "craigchatimagestorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

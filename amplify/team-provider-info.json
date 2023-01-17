@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifychat95181c4f": {}
+      },
+      "api": {
+        "amplifychat": {}
+      },
+      "storage": {
+        "chatimagestorage": {}
       }
     }
   }
